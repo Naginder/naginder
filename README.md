@@ -1,26 +1,17 @@
-## Hi there 👋
-
-- I like to build and create solutions
-- I'm a problem solver with skills in Databases, Data Analytics, AI and BI
-- I develop in Python, SQL and a little bit of this and that
-- I am based out of Singapore currently
-
-```geojson
-{"type":"Feature","id":"SGP","properties":{"name":"Singapore"},"geometry":{"type":"Polygon","coordinates":[[[103.60313415527344,1.26675774823251],[103.61755371093749,1.3244212231757635],[103.65325927734375,1.3896342476555246],[103.66630554199219,1.4143460858068593],[103.67179870605467,1.4294476354255539],[103.68278503417969,1.439057660807751],[103.69583129882812,1.4438626583311722],[103.72055053710938,1.4589640128389818],[103.73771667480469,1.4582775898253464],[103.75419616699219,1.4493540716333067],[103.7603759765625,1.4500404973607948],[103.80363464355467,1.4788701887242242],[103.8269805908203,1.4754381021049132],[103.86680603027342,1.4582775898253464],[103.8922119140625,1.4321933610794366],[103.89701843261717,1.4287612034988086],[103.91555786132812,1.4267019064882447],[103.93478393554688,1.4321933610794366],[103.96018981933592,1.4218968729661605],[103.985595703125,1.4246426076343077],[104.00070190429688,1.4212104387885494],[104.02130126953125,1.4397440896459617],[104.04396057128906,1.445921939876798],[104.08721923828125,1.4246426076343077],[104.09477233886719,1.3971851147344805],[104.08103942871094,1.3573711816421556],[104.12704467773438,1.290097884072079],[104.12704467773438,1.2777413679950957],[103.98216247558594,1.2537146393239096],[103.81256103515625,1.1754546449158993],[103.73634338378906,1.1301452152248344],[103.65394592285156,1.1905576261723045],[103.56536865234375,1.1960495988987414],[103.60313415527344,1.26675774823251]]]}}
-```
+# 💫 About Me:
+I like to build and create solutions<br>I’m a problem solver with skills in Databases, Data Analytics, AI and BI<br>I develop in Python, SQL and a little bit of this and that<br>I am based out of Singapore currenlty
 
 
-<!--
-**Naginder/naginder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naginder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Naginder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naginder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Naginder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Naginder&icon=0&color=0)](https://visitcount.itsvg.in)
+
